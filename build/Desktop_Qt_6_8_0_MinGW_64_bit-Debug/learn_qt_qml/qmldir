@@ -1,0 +1,5 @@
+module learn_qt_qml
+typeinfo applearn_qt_qml.qmltypes
+prefer :/qt/qml/learn_qt_qml/
+Main 1.0 Main.qml
+

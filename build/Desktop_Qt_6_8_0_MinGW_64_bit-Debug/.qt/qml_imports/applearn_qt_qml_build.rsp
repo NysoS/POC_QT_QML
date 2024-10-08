@@ -1,0 +1,14 @@
+-rootPath
+D:/QT/learn_qt_qml
+-cmake-output
+-output-file
+D:/QT/learn_qt_qml/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/.qt/qml_imports/applearn_qt_qml_build.cmake
+-importPath
+D:/QT/learn_qt_qml/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/learn_qt_qml
+-importPath
+D:/QT/learn_qt_qml/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug
+-importPath
+C:/Qt/6.8.0/mingw_64/qml
+-qrcFiles
+D:/QT/learn_qt_qml/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/.qt/rcc/qmake_learn_qt_qml.qrc
+D:/QT/learn_qt_qml/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/.qt/rcc/applearn_qt_qml_raw_qml_0.qrc

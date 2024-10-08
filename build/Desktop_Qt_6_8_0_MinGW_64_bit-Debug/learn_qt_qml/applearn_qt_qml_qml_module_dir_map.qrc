@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/qt/qml/learn_qt_qml">D:/QT/learn_qt_qml/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/learn_qt_qml</file>
+
+  </qresource>
+</RCC>
